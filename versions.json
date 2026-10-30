@@ -1,0 +1,53 @@
+{
+  "daddy_bills": {
+    "version": "0.0.1",
+    "url": "https://portal.cfx.re/assets/granted-assets",
+    "notes": "https://github.com/can9work/daddy_versions/blob/main/daddy_bills/CHANGELOG.md",
+    "critical": false,
+    "changes": {
+      "0.0.1": [
+        "Bills on a tablet: personal, job, state and business bills, items with tax, due dates, late fees, installments, recurring bills, autopay",
+        "Objections: the customer objects, the sender or the boss of the job decides",
+        "Show a bill to a player nearby; a receipt item for every paid bill",
+        "Saved templates, personal and per job",
+        "Boss screen: charts, staff, customers, bills, objections, grade rules and ready items of the job",
+        "Admin screen: the whole city, write off, waive late fees, extend due dates, state bills",
+        "Discord logs for every bill event and a weekly report per job",
+        "Takes the place of esx_billing and okokBilling and copies their unpaid bills once",
+        "ESX, QBCore, Qbox and standalone; languages en, tr, de, fr, es, pt, pl"
+      ]
+    }
+  },
+  "daddy_venue": {
+    "version": "0.0.1",
+    "url": "https://portal.cfx.re/assets/granted-assets",
+    "notes": "https://github.com/can9work/daddy_versions/blob/main/daddy_venue/CHANGELOG.md",
+    "critical": false,
+    "changes": {
+      "0.0.1": [
+        "Businesses with owners, staff, roles and permissions, opening hours and settings",
+        "Menu, pricing, stock, kitchen stations, orders and a self-service kiosk",
+        "Finance, payroll, schedules, hiring, staff performance and a dashboard",
+        "Delivery, promotions, loyalty and reviews",
+        "Property building with placeable objects and shells",
+        "Bills through daddy_bills, esx_billing or your own script",
+        "Every feature can be turned off in Config.Features"
+      ]
+    }
+  },
+  "daddy_hud": {
+    "version": "0.0.1",
+    "url": "https://portal.cfx.re/assets/granted-assets",
+    "notes": "https://github.com/can9work/daddy_versions/blob/main/daddy_hud/CHANGELOG.md",
+    "critical": false,
+    "changes": {
+      "0.0.1": [
+        "A HUD with a studio: players pick the look of every part, move and scale it on a grid, save presets and share them with a code",
+        "Status looks, speedometers for cars, bikes, boats, aircraft and trains, compass and minimap options",
+        "Voice (pma-voice, mumble-voip, SaltyChat), needs, notifications, progress bar and a vehicle menu",
+        "Servers decide what players may change; looks kept on the server per player",
+        "Qbox, QBCore, ESX or standalone"
+      ]
+    }
+  }
+}
